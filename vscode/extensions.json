@@ -1,0 +1,38 @@
+{
+  "recommendations": [
+    // Python
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.debugpy",
+    "ms-python.vscode-python-envs",
+    "charliermarsh.ruff",
+
+    // Notebooks & data exploration
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ms-toolsai.datawrangler",
+    "mechatroner.rainbow-csv",
+
+    // Config / docs
+    "tamasfe.even-better-toml",
+    "yzhang.markdown-all-in-one",
+    "njpwerner.autodocstring",
+
+    // Editor quality of life
+    "usernamehw.errorlens",
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+
+    // AI-assisted engineering
+    "anthropic.claude-code",
+
+    // Theme
+    "github.github-vscode-theme",
+    "pkief.material-icon-theme"
+  ]
+}
