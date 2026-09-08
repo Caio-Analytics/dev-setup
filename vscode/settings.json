@@ -1,0 +1,18 @@
+{
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "afterDelay",
+  "update.mode": "manual",
+  "git.autofetch": true,
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.language": "pt-BR,en,pt",
+  "claudeCode.preferredLocation": "panel",
+  "explorer.fileNesting.patterns": {
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  }
+}
